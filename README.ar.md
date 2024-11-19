@@ -1,6 +1,6 @@
 إعادة توجيه البريد الإلكتروني
 
-# Forward Email
+# إعادة توجيه البريد الإلكتروني
 
 > بديل الكل في واحد لـ Gmail + Mailchimp + Sendgrid
 
@@ -18,11 +18,11 @@
 
 ## 200 - المتطلبات
 
-يرى[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 – بناء تطبيقنا
 
-See [README.md](./300/README.md)
+يرى[README.md](./300/README.md)
 
 ## 400 - الخاتمة
 
