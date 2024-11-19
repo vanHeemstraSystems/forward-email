@@ -1,6 +1,6 @@
 E-Mail weiterleiten
 
-# E-Mail weiterleiten
+# Forward Email
 
 > All-in-One-Alternative zu Gmail + Mailchimp + Sendgrid
 
