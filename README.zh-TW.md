@@ -1,6 +1,6 @@
 轉寄電子郵件
 
-# 轉寄電子郵件
+# Forward Email
 
 > Gmail + Mailchimp + Sendgrid 的多合一替代方案
 
@@ -14,7 +14,7 @@
 
 ## 100 - 簡介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200 - 要求
 
