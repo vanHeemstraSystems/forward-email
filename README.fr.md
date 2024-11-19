@@ -4,13 +4,13 @@ nom du référentiel
 
 > Slugline
 
--   [Glossaire](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Références](./REFERENCES.md)
 -   [Documentation](./DOCUMENTATION.md)
 
 **Résumé exécutif**
 
-Texte
+Text
 
 ## 100 - Introduction
 
