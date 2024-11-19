@@ -6,7 +6,7 @@ E-Mail weiterleiten
 
 -   [Glossar](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)
--   [Dokumentation](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 
 **Zusammenfassung**
 
