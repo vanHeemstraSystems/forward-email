@@ -1,4 +1,4 @@
-转发电子邮件
+forward-email
 
 # 转发电子邮件
 
@@ -10,7 +10,7 @@
 
 **执行摘要**
 
-混合搭配自定义域电子邮件转发、网络钩子、邮箱等。
+Mix and match custom domain email forwarding, webhooks, mailboxes, and more.
 
 ## 100 - 简介
 
@@ -24,6 +24,6 @@
 
 看[README.md](./300/README.md)
 
-## 400 - 结论
+## 400 - Conclusion
 
 看[README.md](./400/README.md)
