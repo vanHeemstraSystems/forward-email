@@ -1,18 +1,18 @@
-nom du référentiel
+transférer un e-mail
 
-# Nom du référentiel
+# Transférer l'e-mail
 
-> Slugline
+> Alternative tout-en-un à Gmail + Mailchimp + Sendgrid
 
--   [Glossary](./GLOSSARY.md)
+-   [Glossaire](./GLOSSARY.md)
 -   [Références](./REFERENCES.md)
 -   [Documentation](./DOCUMENTATION.md)
 
 **Résumé exécutif**
 
-Text
+Mélangez et associez le transfert d'e-mails de domaine personnalisé, les webhooks, les boîtes aux lettres et bien plus encore.
 
-## 100 - Introduction
+## 100 - Présentation
 
 Voir[README.md](./100/README.md)
 
@@ -20,7 +20,7 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Construire notre application
+## 300 - Building Our Application
 
 Voir[README.md](./300/README.md)
 
