@@ -1,8 +1,8 @@
-Repository-Name
+E-Mail weiterleiten
 
-# Repository-Name
+# E-Mail weiterleiten
 
-> Slugline
+> All-in-One-Alternative zu Gmail + Mailchimp + Sendgrid
 
 -   [Glossar](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)
@@ -10,7 +10,7 @@ Repository-Name
 
 **Zusammenfassung**
 
-Text
+Kombinieren Sie benutzerdefinierte Domain-E-Mail-Weiterleitung, Webhooks, Postfächer und mehr.
 
 ## 100 - Einführung
 
