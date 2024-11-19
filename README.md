@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+forward-email
+# Forward Email
 
-> Slugline
+> All-in-one alternative to Gmail + Mailchimp + Sendgrid
 
 - [Glossary](./GLOSSARY.md)
 - [References](./REFERENCES.md)
@@ -9,7 +9,7 @@ repository-name
 
 **Executive Summary**
 
-Text
+Mix and match custom domain email forwarding, webhooks, mailboxes, and more.
 
 ## 100 - Introduction
 
