@@ -14,9 +14,9 @@ Mezcle y combine reenvío de correo electrónico de dominio personalizado, webho
 
 ## 100 - Introducción
 
-See [README.md](./100/README.md)
+Ver[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Requisitos
 
 Ver[README.md](./200/README.md)
 
