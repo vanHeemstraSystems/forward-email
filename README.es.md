@@ -1,8 +1,8 @@
-nombre-repositorio
+reenviar correo electrónico
 
-# Repository Name
+# Reenviar correo electrónico
 
-> línea de bala
+> Alternativa todo en uno a Gmail + Mailchimp + Sendgrid
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
@@ -10,7 +10,7 @@ nombre-repositorio
 
 **Resumen ejecutivo**
 
-Texto
+Mezcle y combine reenvío de correo electrónico de dominio personalizado, webhooks, buzones de correo y más.
 
 ## 100 - Introducción
 
@@ -24,6 +24,6 @@ Ver[README.md](./200/README.md)
 
 Ver[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - Conclusión
 
 Ver[README.md](./400/README.md)
