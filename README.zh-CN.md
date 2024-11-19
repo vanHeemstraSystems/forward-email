@@ -1,8 +1,8 @@
-存储库名称
+转发电子邮件
 
-# 存储库名称
+# 转发电子邮件
 
-> Slugline
+> Gmail + Mailchimp + Sendgrid 的多合一替代方案
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
@@ -10,7 +10,7 @@
 
 **执行摘要**
 
-文本
+Mix and match custom domain email forwarding, webhooks, mailboxes, and more.
 
 ## 100 - 简介
 
