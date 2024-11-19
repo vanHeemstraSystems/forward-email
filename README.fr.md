@@ -12,7 +12,7 @@ transférer un e-mail
 
 Mélangez et associez le transfert d'e-mails de domaine personnalisé, les webhooks, les boîtes aux lettres et bien plus encore.
 
-## 100 - Présentation
+## 100 - Introduction
 
 Voir[README.md](./100/README.md)
 
@@ -20,7 +20,7 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Créer notre application
+## 300 - Construire notre application
 
 Voir[README.md](./300/README.md)
 
