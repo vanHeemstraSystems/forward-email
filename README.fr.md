@@ -1,4 +1,4 @@
-forward-email
+transférer un e-mail
 
 # Transférer l'e-mail
 
