@@ -1,8 +1,8 @@
-repositorynaam
+e-mail doorsturen
 
-# Naam van opslagplaats
+# E-mail doorsturen
 
-> Slaklijn
+> All-in-one alternative to Gmail + Mailchimp + Sendgrid
 
 -   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
@@ -10,7 +10,7 @@ repositorynaam
 
 **Samenvatting**
 
-Tekst
+Mix en match aangepaste domein-e-maildoorsturing, webhooks, mailboxen en meer.
 
 ## 100 - Inleiding
 
@@ -26,4 +26,4 @@ Zien[README.md](./300/README.md)
 
 ## 400 - Conclusie
 
-See [README.md](./400/README.md)
+Zien[README.md](./400/README.md)
