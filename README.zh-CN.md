@@ -10,9 +10,9 @@
 
 **执行摘要**
 
-Mix and match custom domain email forwarding, webhooks, mailboxes, and more.
+混合搭配自定义域电子邮件转发、网络钩子、邮箱等。
 
-## 100 - 简介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
