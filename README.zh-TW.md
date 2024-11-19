@@ -10,11 +10,11 @@
 
 **執行摘要**
 
-Mix and match custom domain email forwarding, webhooks, mailboxes, and more.
+混搭自訂網域電子郵件轉發、網路鉤子、郵箱等。
 
 ## 100 - 簡介
 
-看[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - 要求
 
