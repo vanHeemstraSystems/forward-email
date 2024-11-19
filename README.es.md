@@ -8,15 +8,15 @@ reenviar correo electrónico
 -   [Referencias](./REFERENCES.md)
 -   [Documentación](./DOCUMENTATION.md)
 
-**Executive Summary**
+**Resumen ejecutivo**
 
 Mezcle y combine reenvío de correo electrónico de dominio personalizado, webhooks, buzones de correo y más.
 
 ## 100 - Introducción
 
-Ver[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
-## 200 - Requisitos
+## 200 - Requirements
 
 Ver[README.md](./200/README.md)
 
