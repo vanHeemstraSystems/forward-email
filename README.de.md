@@ -10,7 +10,7 @@ E-Mail weiterleiten
 
 **Zusammenfassung**
 
-Mix and match custom domain email forwarding, webhooks, mailboxes, and more.
+Kombinieren Sie benutzerdefinierte Domain-E-Mail-Weiterleitung, Webhooks, Postfächer und mehr.
 
 ## 100 - Einführung
 
