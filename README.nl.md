@@ -5,10 +5,10 @@ e-mail doorsturen
 > Alles-in-één alternatief voor Gmail + Mailchimp + Sendgrid
 
 -   [Glossarium](./GLOSSARY.md)
--   [References](./REFERENCES.md)
+-   [Referenties](./REFERENCES.md)
 -   [Documentatie](./DOCUMENTATION.md)
 
-**Executive Summary**
+**Samenvatting**
 
 Mix en match aangepaste domein-e-maildoorsturing, webhooks, mailboxen en meer.
 
