@@ -1,6 +1,6 @@
 轉寄電子郵件
 
-# Forward Email
+# 轉寄電子郵件
 
 > Gmail + Mailchimp + Sendgrid 的多合一替代方案
 
