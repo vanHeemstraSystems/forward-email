@@ -1,6 +1,6 @@
 e-mail doorsturen
 
-# Forward Email
+# E-mail doorsturen
 
 > Alles-in-één alternatief voor Gmail + Mailchimp + Sendgrid
 
@@ -10,7 +10,7 @@ e-mail doorsturen
 
 **Samenvatting**
 
-Mix and match custom domain email forwarding, webhooks, mailboxes, and more.
+Mix en match aangepaste domein-e-maildoorsturing, webhooks, mailboxen en meer.
 
 ## 100 - Inleiding
 
