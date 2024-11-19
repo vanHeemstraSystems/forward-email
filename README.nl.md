@@ -6,7 +6,7 @@ e-mail doorsturen
 
 -   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Documentatie](./DOCUMENTATION.md)
 
 **Samenvatting**
 
