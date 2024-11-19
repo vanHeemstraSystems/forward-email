@@ -5,12 +5,12 @@
 > Gmail + Mailchimp + Sendgrid 的多合一替代方案
 
 -   [詞彙表](./GLOSSARY.md)
--   [References](./REFERENCES.md)
+-   [參考](./REFERENCES.md)
 -   [文件](./DOCUMENTATION.md)
 
 **執行摘要**
 
-混搭自訂網域電子郵件轉發、網路鉤子、郵箱等。
+Mix and match custom domain email forwarding, webhooks, mailboxes, and more.
 
 ## 100 - 簡介
 
